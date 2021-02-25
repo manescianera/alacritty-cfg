@@ -1,0 +1,58 @@
+env:
+    TERM: xterm-256color
+
+font:
+    normal:
+        family: Jetbrains Mono
+        style: Retina
+
+    bold:
+        family: Jetbrains Mono
+        style: Bold
+
+    italic:
+        family: Jetbrains Mono
+        style: Italic
+
+    bold_italic:
+        family: Jetbrains Mono
+        style: Bold Italic
+
+    size: 11.0
+
+    offset:
+        x: 0
+        y: 0
+
+    glyph_offset:
+        x: 0
+        y: 0
+
+    use_thin_strokes: true
+
+colors:
+    primary:
+        background: '0x121319'
+        foreground: '0xbcc5d8'
+
+    normal:
+        black: '0x121319'
+        red: '0xbf616a'
+        green: '0x72c2a2'
+        yellow: '0x78b7e2'
+        blue: '0x84a0c6'
+        magenta: '0xa093c7'
+        cyan: '0x89b8c2'
+        white: '0xbcc5d8'
+
+    bright:
+        black: '0x3e4960'
+        red: '0xe29199'
+        green: '0xa0dbc2'
+        yellow: '0xa8d2ee'
+        blue: '0xa3bee3'
+        magenta: '0xc8b5e6'
+        cyan: '0xb6d8de'
+        white: '0xffffff'
+
+background_opacity: 0.85
